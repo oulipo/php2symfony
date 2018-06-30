@@ -1,0 +1,10 @@
+{
+    "name": "laurent/blog",
+    "authors": [
+        {
+            "name": "oulipo",
+            "email": "laudesj@gmail.com"
+        }
+    ],
+    "require": {}
+}
