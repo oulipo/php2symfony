@@ -1,10 +1,6 @@
 <?php
 // index.php
-<<<<<<< HEAD
 require_once 'model.php';
-=======
-$connection = new PDO("mysql:host=127.0.0.1;dbname=blog_db", 'blog_db', 'blog_db');
->>>>>>> etape2
 
 $posts = get_all_posts();
 
