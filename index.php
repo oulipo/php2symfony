@@ -28,6 +28,6 @@ $response->send();
     4. ajouter le page show : : git checkout etape5 
     5. MISE EN PLACE D'UN FRONT-CONTROLLER : git checkout etape6
         c'est l'étape majeure car on va tout centraliser dans un seul fichier
-    --> 6. ajouter symfony : git checkout symfony -->
+    -> 6. ajouter symfony : git checkout symfony -->
 
 <!-- $ composer install -->
